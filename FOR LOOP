@@ -1,0 +1,20 @@
+import java.util.*;
+public class javaBasics
+ {
+  public static void main (String args[])
+ {
+   
+
+ for(int counter=0 ; counter <= 10 ; counter++) 
+
+ {
+    System.out.println("WHATEVER");
+  
+ }
+}
+ }
+
+// for(initialisation;condition;updation)
+{
+\\code
+}

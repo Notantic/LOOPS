@@ -1,3 +1,8 @@
+for(initialisation;condition;updation)
+{
+code
+}
+
 import java.util.*;
 public class javaBasics
  {
@@ -14,7 +19,3 @@ public class javaBasics
 }
  }
 
-// for(initialisation;condition;updation)
-{
-\\code
-}

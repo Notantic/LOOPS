@@ -1,0 +1,20 @@
+#reverse the given number
+import java.util.*;
+public class javaBasics
+ {
+  public static void main (String args[])
+ {
+    int n =10897;
+    int reverse = 0 ;
+
+while(n > 0){
+ 
+ 
+   int Lastdigit = n % 10;
+   System.out.print(Lastdigit);
+   reverse = (reverse*10)+Lastdigit;
+n = n/10;}  
+   System.out.println();  
+
+}
+ }  
